@@ -11,6 +11,7 @@ npm init playwright@latest
 ## Comandos para execução dos testes
 
 ```bash
-npx playwright test```
+npx playwright test
+```
 
 
